@@ -4,7 +4,7 @@
 
 
 
-                                RUBY ON RAİLS FAKER APİ DATA 
+                                          RUBY ON RAİLS FAKER APİ DATA 
 
 
 
